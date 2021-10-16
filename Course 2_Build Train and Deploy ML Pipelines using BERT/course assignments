@@ -1,0 +1,3 @@
+1. week 1 assignment: aws s3 cp --recursive s3://dlai-practical-data-science/labs/c2w1-487391/ ./
+2. week 2 assignment: aws s3 cp --recursive s3://dlai-practical-data-science/labs/c2w2-824159/ ./
+3. week 3 assignment: aws s3 cp --recursive s3://dlai-practical-data-science/labs/c2w3-594046/ ./
